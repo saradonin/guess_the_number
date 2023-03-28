@@ -3,6 +3,9 @@ from random import randint
 
 def guess_the_number():
     """
+    Asks user to guess the number from 1 to 100.
+    Returns feedback whether number is too small or too big.
+    :return: str
     """
     answer = randint(1, 101)
     print("Guess the number from 1 to 100: ")
