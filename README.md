@@ -1,6 +1,6 @@
 
-## Guess the number ##
-
+# Guess the number #
+***
 Guess the number is a simple console game.
 
 Game asks user to guess the number from 1 to 100.
