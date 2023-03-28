@@ -1,4 +1,5 @@
-#Guess the number
+
+## Guess the number ##
 
 Guess the number is a simple console game.
 
